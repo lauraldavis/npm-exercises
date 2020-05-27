@@ -1,0 +1,1 @@
+export const sayHelloNicely = () => 'Hello there, Ganymede. Be Awesome!';
