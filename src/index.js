@@ -1,4 +1,7 @@
 "use strict";
+
+$(document).ready(function() {
+
 const $ = require('jquery');
 const randomColor = require('randomcolor');
 
@@ -11,3 +14,5 @@ function sayHello() {
     return "Hello!";
 }
 console.log(sayHello());
+
+});
