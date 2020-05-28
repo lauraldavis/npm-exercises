@@ -1,8 +1,9 @@
 import $ from "jquery";
+import randomColor from 'randomcolor';
 import {sayHelloNicely} from './say-hello';
 $(document).ready(function () {
     // const $ = require('jquery');
-    const randomColor = require('randomcolor');
+    // const randomColor = require('randomcolor');
 
     // set random colors
     var bgColor = randomColor();
