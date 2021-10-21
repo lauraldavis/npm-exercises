@@ -27,10 +27,10 @@
     "jquery": "^3.5.1",
     "randomcolor": "^0.5.4",
     "webpack": "^4.44.1",
-    "elliptic": ">=6.5.3"
+    "elliptic": ">=6.5.4"
   },
   "devDependencies": {
     "webpack-cli": "^3.3.12",
-    "elliptic": ">=6.5.3"
+    "elliptic": ">=6.5.4"
   }
 }
