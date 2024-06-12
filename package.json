@@ -30,7 +30,7 @@
     "elliptic": ">=6.5.4"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.12",
+    "webpack-cli": "^5.1.4",
     "elliptic": ">=6.5.4"
   }
 }
